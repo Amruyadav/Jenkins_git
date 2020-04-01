@@ -15,7 +15,7 @@ pipeline{
 	      
 		stage('Run'){
 				steps{
-					echo "Run"
+					echo "Project Run"
 				      }
 			    }
 	     }
